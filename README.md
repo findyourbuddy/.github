@@ -1,1 +1,2 @@
-# findyourbuddy
+# Find your Buddy!
+findyourbuddy.org
