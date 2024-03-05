@@ -1,4 +1,4 @@
-1[](https://media.tenor.com/QbK4mZXZVeIAAAAM/cat-insane.gif)
+![](https://media.tenor.com/QbK4mZXZVeIAAAAM/cat-insane.gif)
 
 <!--
 
