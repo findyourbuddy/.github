@@ -19,9 +19,9 @@ We are a **small** **group** of **developers**, and wanted to **create** a **pro
 > `🔍` We still search Team Members, just Contact us!
 
 **Contributors**:
- - exceptionpilot
- - thisasuna
- - lyneko
+ - [exceptionpilot](https://github.com/exceptionpilot)
+ - [asuna-wav](https://github.com/asuna-wav)
+ - [lyneko](https://github.com/Lynekoo)
 
 <!--
 
