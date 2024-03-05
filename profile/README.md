@@ -1,4 +1,23 @@
-![](https://media.tenor.com/QbK4mZXZVeIAAAAM/cat-insane.gif)
+## `👋` Hello, there!
+>  `🎉` You found the **official** `findyourbuddy.org` readme file!
+
+### `🗒️` Important Information
+* Website: findyourbuddy.org
+* Support: support@findyourbuddy.org
+* Documentation: docs.findyourbuddy.org
+* GitHub: [github.com/findyourbuddy](https://github.com/findyourbuddy)
+
+### `👤` Team Members:
+
+* Contributors
+   - exceptionpilot
+   - thisasuna
+   - lyneko
+* Staff
+    - basti.ehz
+
+> [!INFO]
+> We are an **small** Group of **Developers**, and **wanted** to **create** an **Project**, and then came up with the **Idea** to **create** something **for** the **Animals**!
 
 <!--
 
