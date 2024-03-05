@@ -22,9 +22,6 @@ We are a **small** **group** of **developers**, and wanted to **create** a **pro
  - exceptionpilot
  - thisasuna
  - lyneko
-**Staff**:
- - basti.ehz
-
 
 <!--
 
