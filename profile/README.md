@@ -9,7 +9,7 @@ We are a **small** **group** of **developers**, and wanted to **create** a **pro
 
 ### `🗒️` Important Information
 * Website: findyourbuddy.org
-* Support: support@findyourbuddy.org
+* Support: developer@findyourbuddy.org
 * Documentation: docs.findyourbuddy.org
 * Discord Server: [discord.gg/eAyEYSU4hG](https://discord.gg/eAyEYSU4hG)
 * GitHub: [github.com/findyourbuddy](https://github.com/findyourbuddy)
