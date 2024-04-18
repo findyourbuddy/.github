@@ -1,11 +1,4 @@
-## `👋` Hello, there!
->  `🎉` You found the **official** `findyourbuddy.org` readme file!
-
----
-
-We are a **small** **group** of **developers**, and wanted to **create** a **project** for the **animals** and here we are!
-
----
+## `👋` G'day mate!
 
 ### `🗒️` Important Information
 * Website: findyourbuddy.org
@@ -13,15 +6,6 @@ We are a **small** **group** of **developers**, and wanted to **create** a **pro
 * Documentation: docs.findyourbuddy.org
 * Discord Server: [discord.gg/eAyEYSU4hG](https://discord.gg/eAyEYSU4hG)
 * GitHub: [github.com/findyourbuddy](https://github.com/findyourbuddy)
-
-
-### `👤` Team Members:
-> `🔍` We still search Team Members, just Contact us!
-
-**Contributors**:
- - [exceptionpilot](https://github.com/exceptionpilot)
- - [asuna-wav](https://github.com/asuna-wav)
- - [lyneko](https://github.com/Lynekoo)
 
 <!--
 
