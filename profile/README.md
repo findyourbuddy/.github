@@ -1,11 +1,9 @@
 ## `👋` G'day mate!
 
 ### `🗒️` Important Information
-* Website: findyourbuddy.org
-* Support: developer@findyourbuddy.org
-* Documentation: docs.findyourbuddy.org
-* Discord Server: [discord.gg/eAyEYSU4hG](https://discord.gg/eAyEYSU4hG)
-* GitHub: [github.com/findyourbuddy](https://github.com/findyourbuddy)
+* [findyourbuddy.org](https://findyourbuddy.org)
+* [developer@findyourbuddy.org](mailto:developer@findyourbuddy.org)
+* [Discord](https://discord.gg/eAyEYSU4hG)
 
 <!--
 
